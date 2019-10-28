@@ -11597,7 +11597,7 @@ var Hls = /** @class */ (function (_super) {
          * @type {string}
          */
         get: function () {
-            return "0.12.1-canary.4149";
+            return "0.12.1-23a07d9";
         },
         enumerable: true,
         configurable: true
